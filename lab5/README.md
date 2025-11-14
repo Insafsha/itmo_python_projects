@@ -70,7 +70,7 @@ lab5/
 
 ---
 
-## ▶ Запуск
+##  Запуск
 
 ```bash
 python main.py
