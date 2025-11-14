@@ -25,7 +25,7 @@ def graph2(width):
 if __name__ == "__main__":
     print("\n\n#2 График |x|")
     graph()
-    # дополнительные позиционирующие escape-коды (как в твоём оригинале):
+    
     print('\u001b[10C')
     print('\u001b[10A')
     graph2(W)
